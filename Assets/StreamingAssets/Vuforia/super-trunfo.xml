@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="camaro" size="1.000000 1.333922" />
+    <ImageTarget name="ambulancia" size="1.000000 1.331570" />
+    <ImageTarget name="policia" size="1.000000 1.331570" />
+    <ImageTarget name="lamborghini" size="1.000000 1.331570" />
+    <ImageTarget name="corrida" size="1.000000 1.331570" />
+    <ImageTarget name="moto" size="1.000000 1.331570" />
+    <ImageTarget name="ferrari" size="1.000000 1.331570" />
+    <ImageTarget name="corrida-80s" size="1.000000 1.331570" />
+    <ImageTarget name="helicoptero" size="1.000000 1.331570" />
+    <ImageTarget name="Caminhao" size="1.000000 1.331570" />
     <ImageTarget name="teste" size="10.000000 13.333333" />
+    <ImageTarget name="marker_1" size="0.150000 0.150000" />
+    <ImageTarget name="suzuki-swift" size="500.000000 267.187500" />
   </Tracking>
 </QCARConfig>
